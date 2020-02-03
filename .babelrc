@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"]
+}
+//compila el codigo a otra version para los servidores.
